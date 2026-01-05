@@ -14,7 +14,7 @@ text
 
 ## 🚀 Quick Start
 
-### Backend Setup (Django)
+### Backend and Frontend setup
 ```bash
 cd backend
 pip install pipenv  # if not installed
@@ -23,8 +23,7 @@ pipenv shell
 pipenv run python manage.py migrate
 pipenv run python manage.py runserver
 
-### Backend Setup (Django)
-bash
+### frontend Setup (Django)
 cd frontend
 npm install
 npm start
