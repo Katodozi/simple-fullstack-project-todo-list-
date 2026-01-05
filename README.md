@@ -22,7 +22,8 @@ pipenv install
 pipenv shell
 pipenv run python manage.py migrate
 pipenv run python manage.py runserver
-Frontend Setup (React)
+
+### Backend Setup (Django)
 bash
 cd frontend
 npm install
